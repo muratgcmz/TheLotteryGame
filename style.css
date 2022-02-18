@@ -11,6 +11,7 @@
     background-size:50%;
     background-position: center;
     
+    
 
     
 }
@@ -42,4 +43,10 @@ hr{
     border-radius: 1rem;
     width: 3.5rem;
     background-color: red;
+}
+@media screen and (min-width:1600px){
+    .main{
+        height: 60rem;
+    }
+    
 }
